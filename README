@@ -1,0 +1,10 @@
+system requirements: os linux debian or windows 
+                     python 3 
+                     selinum webdriver 
+
+
+Bruteforce.py - non graphical simultator of bruteforce 
+
+bruteforce_gui.py - graphical simulator of bruteforce (in dev) 
+
+xBrute - brute force tool (in dev) 
